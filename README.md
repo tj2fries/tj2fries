@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tj2fries
+- 👀 I’m interested in robotics programming
+- 🌱 I’m currently learning computer structures and real time systems
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like jazz
